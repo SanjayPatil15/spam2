@@ -1,0 +1,2 @@
+# MediBuddy: Smart Health Predictor
+This project aims to predict diseases such as **Diabetes**, **Heart disease**, **Kidney disease**, **Breast cancer**, **Liver disease**, **Malaria**, and **Pneumonia** using algorithms such as Naïve Bayes Algorithm, K-Nearest Algorithm, Logistic Regression Algorithm, Decision Tree Algorithm, Random Forest Algorithm and Support Vector Machine, and deep learning methods such as Convolutional Neural Networks and then building a web app for user interface.
